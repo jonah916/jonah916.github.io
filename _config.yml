@@ -21,6 +21,7 @@ url: "https://jonah916.github.io" # the base hostname & protocol for your site, 
 #twitter_username: 'jamigibbs'
 github_username: 'jonah916'
 #medium_username: 'blog.jamigibbs.com'
+linkedin_username: 'jonah-wb'
 
 # Build settings
 markdown: kramdown
