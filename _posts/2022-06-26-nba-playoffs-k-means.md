@@ -4,7 +4,7 @@ position: left
 title: 'Predicting the 2022 NBA Playoffs'
 date: 2022-06-26 12:40:00
 categories: development
-tags: Data-Science Unsupervised-Learning Basketball
+tags: Data-Science Python Basketball
 featured_image: 'img/posts/NBA Playoffs Project Thumbnail.png'
 project_link: ''
 button_icon: 'github'
