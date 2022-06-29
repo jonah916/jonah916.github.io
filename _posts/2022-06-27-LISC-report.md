@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'LA Regional Covid Fund'
+title: 'LA Regional Covid Fund Impact Report'
 date: 2022-06-27 12:10:00
 categories: development
 tags: Tableau
