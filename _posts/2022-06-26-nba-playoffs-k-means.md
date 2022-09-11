@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Predicting the 2022 NBA Playoffs'
-date: 2022-06-29 12:50:00
+date: 2022-06-29 12:55:00
 categories: development
 tags: Data-Science Python Basketball
 featured_image: 'img/posts/NBA Playoffs Project Thumbnail.jpg'
