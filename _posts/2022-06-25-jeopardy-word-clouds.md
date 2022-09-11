@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Using NLP to Study for <i>Jeopardy!</i>'
-date: 2022-06-25 12:54:00
+date: 2022-06-29 12:54:00
 categories: development
 tags: R NLP
 featured_image: 'img/posts/Jeopardy Project Thumbnail.jpg'
