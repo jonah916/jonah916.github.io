@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Tableau Dashboards Tutorial'
-date: 2022-06-28 03:08:00
+date: 2022-06-27 03:08:00
 categories: development
 tags: Tableau Dashboards
 featured_image: 'img/posts/Tableau Elections Dashboard Thumbnail.png'
