@@ -1,8 +1,8 @@
 ---
 layout: inner
 position: left
-title: 'Predicting the 2022 NBA Playoffs'
-date: 2022-06-29 18:00:00
+title: 'An Analysis of Airbnb'
+date: 2022-06-28 18:00:00
 categories: development
 tags: Tableau Research
 featured_image: 'img/posts/Airbnb Project Thumbnail.jpg'
