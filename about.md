@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## So you're interested in learning more about me? Well, shucks!  
 
-<img style = "float: right;" width = "50" height = "50" src = "https://raw.githubusercontent.com/jonah916/jonah916.github.io/master/Graduation%20Headshot.jpg">
+<img style = "float: right;" width = "50%" height = "50%" src = "https://raw.githubusercontent.com/jonah916/jonah916.github.io/master/Graduation%20Headshot.jpg">
 
 My name is Jonah.  
 
@@ -21,7 +21,7 @@ To me, analytics is one of the solutions to our flawed thinking. When it comes t
 
 ### Data for good?
 
-I believe that data can help organizations be as effective as possible with their resources. My goal is to help mission-driven organizations be effective in creating positive impact, which is why I have worked with nonprofits like the [Local Initiatives Support Corporation](lisc.org), [Imagine LA](imaginela.org), [916 Ink](916ink.org), as well as social impact strategy firm [Third Plateau](thirdplateau.com).  
+I believe that data can help organizations be as effective as possible with their resources. My goal is to help mission-driven organizations be effective in creating positive impact, which is why I've worked with nonprofits like the [Local Initiatives Support Corporation](https://lisc.org), [Imagine LA](https://imaginela.org), [916 Ink](https://916ink.org), as well as social impact strategy firm [Third Plateau](https://thirdplateau.com).  
 
 ### What else?  
 
