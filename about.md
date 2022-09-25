@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## So you're interested in learning more about me? Well, shucks!  
 
-<img align ="right" src = "https://raw.githubusercontent.com/jonah916/jonah916.github.io/master/Graduation%20Headshot.jpg" width = "200">
+<img align ="right" src = "https://raw.githubusercontent.com/jonah916/jonah916.github.io/master/Graduation%20Headshot.jpg" width = "80">
 
 My name is Jonah.  
 
