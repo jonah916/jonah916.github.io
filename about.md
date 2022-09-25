@@ -5,8 +5,6 @@ permalink: /about/
 ---
 ## So you're interested in learning more about me? Well, shucks!  
 
-<img align ="right" width = "80%" height = "50%" src = "https://raw.githubusercontent.com/jonah916/jonah916.github.io/master/Graduation%20Headshot.jpg">
-
 My name is Jonah.  
 
 I'm a Data Analyst currently specializing in healthcare policy research.  
