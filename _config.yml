@@ -101,5 +101,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/Resume_WienerBrodkey_Jonah.pdf', text: 'Resume'}
+  - { url: '/WienerBrodkey_Jonah_20221215.pdf', text: 'Resume'}
   - { url: '/other_projects.md', text: 'Other Projects'}
