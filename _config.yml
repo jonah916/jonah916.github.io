@@ -102,4 +102,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
   - { url: '/Resume_WienerBrodkey_Jonah.pdf', text: 'Resume'}
-  - { url: '/other projects', text: 'Other Projects'}
+  - { url: '/other_projects.md', text: 'Other Projects'}
