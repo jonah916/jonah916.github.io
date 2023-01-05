@@ -13,9 +13,9 @@ In 2022, I graduated Magna Cum Laude from UCLA with a B.S. in Statistics and a m
 
 ### Why data?  
 
-My interest in data analysis starts from the principle that humans are worse than we'd like to admit at thinking about complicated problems. We're over-confident, short-sighted, and forgetful. We [ignore evidence we don't like](https://en.wikipedia.org/wiki/Behavioral_economics) and [claim to be rational when we're actually thinking with our guts](https://en.wikipedia.org/wiki/Social_intuitionism). If this is the case (and it is), how can we expect to get anything done?  
+My interest in data analysis stems from the view that we humans are worse than we'd like to admit at thinking about complicated problems. We're over-confident, short-sighted, and forgetful. We [ignore evidence we don't like](https://en.wikipedia.org/wiki/Behavioral_economics) and [claim to be rational when we're actually thinking with our guts](https://en.wikipedia.org/wiki/Social_intuitionism). If this is the case, how can we expect to get anything done?  
 
-To me, analytics is one of the solutions to our flawed thinking. When it comes to answering questions about everything from climate change to market forecasts, there is a right answer, no matter what our error-prone minds think about it. If we want to have a shot at arriving at that answer&mdash;the signal in the noise, so to speak&mdash;it's important to put our intuitions aside, open our minds, and ask What do the numbers actually say?  
+To me, analytics is one of the solutions to our flawed thinking. When it comes to answering questions about everything from climate change to market forecasts, there is a right answer, no matter what our error-prone minds think about it. If we want to have a shot at arriving at that answer, it's important to put our intuitions aside, open our minds, and ask, What do the numbers actually say?  
 
 ### Data for good?
 
