@@ -101,5 +101,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/Resume.pdf', text: 'Resume'}
+  - { url: '/blob/master/Resume.pdf', text: 'Resume'}
   - { url: '/other_projects.md', text: 'Other Projects'}
