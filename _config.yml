@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Jonah Wiener-Brodkey"
 email: 'jonah916@g.ucla.edu'
-description: "I'm a data analyst based in New York using numbers to understand the world. Interested in <a href='https://jonah916.github.io/#portfolio'>my work<\a>?"
+description: "I'm a data analyst based in New York using numbers to understand the world. Interested in <a href='https://jonah916.github.io/#portfolio'>my work</a>?"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonah916.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 #twitter_username: 'jamigibbs'
