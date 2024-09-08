@@ -53,7 +53,7 @@ Remember that the goal of this project was to learn a lot of new information abo
 <br>
 
 <p align = "center">
-<img src = "/img/posts/Jeopardy-NLP/wordcloud_benjamin franklin.png" style="max-height: 100px; max-width: 100px;" class="center">
+<img src = "/img/posts/Jeopardy-NLP/wordcloud_benjamin franklin.png" style="max-height: 200px; max-width: 200px;" class="center">
 </p>
 
 <br>
@@ -67,7 +67,7 @@ I used my script to repeat this process for more than a dozen of the categories 
 <br>
 
 <p align = "center">
-  <img src = "/img/posts/Jeopardy-NLP/Anki Decks.png" style="max-height: 100px; max-width: 50;" class="center">
+  <img src = "/img/posts/Jeopardy-NLP/Anki Decks.png" style="max-height: 100px; max-width: 50px;" class="center">
 <br>
 <em>Some of my Anki decks for common categories</em>
 </p>
