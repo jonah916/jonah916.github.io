@@ -205,6 +205,10 @@ button.btn, input.btn {
 /*--------------------------------------------------------------
 	3.0 Posts
 --------------------------------------------------------------*/
+html {
+  scroll-behavior: smooth;
+}
+
 #portfolio .container {
   margin-top: 10em;
   @include bp-xsmall {
