@@ -205,46 +205,110 @@ button.btn, input.btn {
 /*--------------------------------------------------------------
 	3.0 Posts
 --------------------------------------------------------------*/
-#portfolio {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 2em;
-  margin-top: 5em;
+#portfolio .container {
+  margin-top: 10em;
+  @include bp-xsmall {
+    margin-top: 2em;
+  }
+  .break {
+    margin: 8em 0;
+    @include bp-xsmall {
+      margin: 2em 0;
+    }
+  }
 }
 
-.project-card {
+.section-title {
   position: relative;
-  overflow: hidden;
-  cursor: pointer;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  &:after {
+    content: '';
+    position: absolute;
+    top: 1.35em;
+    width: 3em;
+    height: 3px;
+    background-color: #ECEFF1;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
 }
 
-.project-card img {
-  width: 100%;
-  height: auto;
-  display: block;
-  transition: transform 0.5s ease;
+.section-subtitle {
+  width: 40%;
+  margin: 0 auto;
+  @include bp-xsmall {
+    width: 100%;
+  }
+  @include bp-small {
+    width: 60%;;
+  }
 }
 
-.project-card:hover img {
-  transform: scale(1.1); /* Zoom effect on hover */
-}
-
-.project-card .description {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.7);
-  color: #fff;
-  padding: 1em;
-  opacity: 0;
-  transition: opacity 0.5s ease;
-  width: 90%;
-}
-
-.project-card:hover .description {
-  opacity: 1;
+.content-wrap {
+  margin-bottom: 8em;
+  @include bp-xsmall {
+    margin-bottom: 2em;
+  }
+  @include bp-small {
+    margin-bottom: 2em;
+  }
+  img.img-responsive {
+    @include bp-xsmall {
+      display: none;
+    }
+    @include bp-small {
+      display: none;
+    }
+  }
+  .content {
+    margin-top: 5em;
+    margin-left: 5em;
+    @include bp-xsmall {
+      margin-left: 0;
+    }
+    h3.title {
+      position: relative;
+      margin-bottom: 1.5em;
+      &:after {
+        content: '';
+        position: absolute;
+        top: 1.5em;
+        left: 0;
+        width: 3em;
+        height: 3px;
+        background-color: #ECEFF1;
+      }
+    }
+    .excerpt {
+      width: 80%;
+      @include bp-xsmall {
+        width: 100%;
+      }
+    }
+    button{
+      font-size: 16px;
+      margin-left: 0;
+      margin-bottom: 1em;
+      margin-top: 1em;
+    }
+    .tags, .categories {
+      margin: 2em 0;
+      span {
+        color: #9eb1bd;
+        background-color: #ECEFF1;
+        padding: 0.5em 1.5em;
+        display: inline-block;
+        margin-bottom: 0.5em;
+      }
+    }
+    .categories span {
+      color: #b9b1ad;
+      background-color: #EFEBE9;
+    }
+  }
 }
 
 
