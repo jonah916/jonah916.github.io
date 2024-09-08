@@ -209,6 +209,10 @@ html {
   scroll-behavior: smooth;
 }
 
+img:hover{
+   transform: scale(1.2);
+}
+
 #portfolio .container {
   margin-top: 10em;
   @include bp-xsmall {
