@@ -126,6 +126,8 @@ The [Kings](https://kingsherald.com/commentary/the-kings-are-living-and-dying-by
 
 The point is that any team with at least a few highly skilled shooters, which these days is *basically every team*, has a fighting chance to get hot and shoot their way to victory.
 
+<br>
+
 ## Is Parity Here to Stay?
 <br>
 When the 2014-15 season began, the Warriors were considered B-tier championship contenders, well [outside](https://www.sportsoddshistory.com/nba-main/?y=2014-2015&sa=nba&a=finals&o=r) the ranks of the top teams. Golden State ended up winning the championship that year, propelled by Steph Curry’s leap from mere All-Star to all-time great superstar. Nobody saw Steph’s leap coming, nor could anyone have predicted Kevin Durant’s decision to join forces with Curry two seasons later and dominate the NBA for the rest of the decade. As idiosyncratic as they are, these things happen and they have the power to reshape the league for years.
