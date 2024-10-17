@@ -48,7 +48,7 @@ Once the text of each question was clean, the script counted up how often a word
 
 <br>
 
-Remember that the goal of this project was to learn a lot of new information about unfamiliar trivia topics as efficiently as possible. Getting lists of the words associated with each common topic technically accomplished this goal, but the lists weren't very easy on the eyes and probably were'nt themost conducive to absorbing information. Instead, like Colin Davy, I turned each of these lists into a word cloud. Each cloud displays the most common words and makes the most common words the biggest and the least common words the smallest. In addition, the words are colored for better visibility. This is the word cloud for Benjamin Franklin:
+Remember that the goal of this project was to learn a lot of new information about unfamiliar trivia topics as efficiently as possible. Getting lists of the words associated with each common topic technically accomplished this goal, but the lists weren't very easy on the eyes and probably weren't the most conducive to absorbing information. Instead, like Colin Davy, I turned each of these lists into a word cloud. Each cloud makes the most common words the biggest and the least common words the smallest. In addition, the words are colored for better visibility. This is the word cloud for Benjamin Franklin:
 
 <br>
 
