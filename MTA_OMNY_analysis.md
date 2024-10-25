@@ -1,6 +1,14 @@
 ---
 layout: inner
-title: "MTA OMNY Rollout Leaves Reduced Fare Riders Behind"
+title: "Will the MTA's OMNY Rollout Leave Reduced Fare Riders Behind?"
 permalink: /mta-omny-analysis
 ---
-# The MTA's OMNY Rollout Leaves Reduced Fare Riders Behind
+# Will the MTA's OMNY Rollout Leave Reduced Fare Riders Behind?
+
+<img src="/img/posts/MTA-OMNY/ridership.png" style="width:100%; height:auto;" />
+
+<img src="/img/posts/MTA-OMNY/metrocard_fare_classes.png" style="width:100%; height:auto;" />
+
+<img src="/img/posts/MTA-OMNY/omny_fare_classes.png" style="width:100%; height:auto;" />
+
+<img src="/img/posts/MTA-OMNY/omny_seniors.png" style="width:100%; height:auto;" />
