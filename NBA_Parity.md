@@ -7,7 +7,32 @@ permalink: /nba-parity-renaissance-is-here
 
 <br>
 
-<p align="center">  <img src="/img/posts/NBA-Parity/Jokic%20FMVP.webp" width="710" height="400" /> </p>
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox">
+    <img class="center-fit" src='/img/posts/NBA-Parity/Jokic%20FMVP.webp'>
+</div>
+</body>
+</html>
+
+<!-- <p align="center">  <img src="/img/posts/NBA-Parity/Jokic%20FMVP.webp" width="710" height="400" /> </p> -->
 <p align="center"> <em>Source: Kyle Terada/USA TODAY Sports/Reuters</em> </p>
 
 <br>
