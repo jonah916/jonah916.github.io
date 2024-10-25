@@ -12,8 +12,8 @@ In 2017, the Metropolitan Transit Authority (MTA) announced plans to phase out p
 
 While OMNY might promise a bit of much-needed modernization to New York City’s transit system, the rollout has also raised concerns that some classes of reduced-fare riders will be left behind. The MTA currently offers two reduced-fare options:
 
-1. Seniors & Disability, for riders who are 65 and older or have a qualifying disability; and
-2. Fair Fares, for low-income riders.
+- Seniors & Disability, for riders who are 65 and older or have a qualifying disability; and
+- Fair Fares, for low-income riders.
 
 <br>
 
@@ -111,6 +111,7 @@ Under-utilization of the Seniors & Disability discount is fairly persistent thro
 <br>
 
 The map for MetroCard Seniors & Disability ridership is consistent with the story we’ve been telling:
+
 <br>
 
 <div style="min-height:823px" id="datawrapper-vis-vJoOw"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/vJoOw/embed.js" charset="utf-8" data-target="#datawrapper-vis-vJoOw"></script><noscript><img src="https://datawrapper.dwcdn.net/vJoOw/full.png" alt="" /></noscript></div>
