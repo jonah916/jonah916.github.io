@@ -9,5 +9,5 @@ featured_image: 'img/posts/MTA_OMNY/mta github thumbnail.jpg'
 project_link: 'mta-omny-analysis'
 button_icon: ''
 button_text: 'Visit Project'
-lead_text: 'According to ridership data, New York City\'s transition to contactless subway payments is going well. But reduced-fare riders aren\'t seeing the benefits yet.'
+lead_text: "According to ridership data, New York City's transition to contactless subway payments is going well. But reduced-fare riders aren't seeing the benefits yet."
 ---
