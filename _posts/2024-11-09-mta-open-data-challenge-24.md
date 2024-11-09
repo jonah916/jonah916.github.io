@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'The MTA Risks Leaving Reduced-Fare \nSubway Riders Behind'
+title: 'MTA Reduced-Fare Subway Ridership Lags Behind'
 date: 2024-11-09 18:00:00
 categories: development
 tags: Data-Science Python Transportation
