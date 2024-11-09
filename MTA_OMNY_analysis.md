@@ -6,7 +6,13 @@ permalink: /mta-omny-analysis
 
 # Will the MTA's OMNY Rollout Leave Reduced-Fare Riders Behind?
 
-<img src="img/posts/MTA-OMNY/mta github thumbnail.jpg" style="width:50%; height:auto;" />
+<img src="img/posts/MTA-OMNY/mta github thumbnail.jpg" class="center" />
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
 
 In 2017, the Metropolitan Transit Authority (MTA) announced plans to phase out physical MetroCards and replace them with a contactless fare payment system. The new system, eventually dubbed OMNY, would allow subway and bus riders to pay fares using digital wallets, contactless credit or debit cards, and, eventually, physical OMNY cards capable of tap-to-pay. The MetroCard phase-out was planned to be completed in 2023, but delays have pushed the expected completion date back indefinitely.
 
