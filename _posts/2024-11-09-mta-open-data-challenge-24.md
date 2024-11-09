@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'MTA Reduced-Fare Subway Ridership Lags Behind'
+title: 'MTA Reduced-Fare Ridership Lags'
 date: 2024-11-09 18:00:00
 categories: development
 tags: Data-Science Python Transportation
