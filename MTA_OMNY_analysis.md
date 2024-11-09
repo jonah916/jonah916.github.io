@@ -6,16 +6,13 @@ permalink: /mta-omny-analysis
 
 # Will the MTA's OMNY Rollout Leave Reduced-Fare Riders Behind?
 
-<img src="img/posts/MTA-OMNY/mta github thumbnail.jpg" style="width:100%; height:auto;" />
+<img src="img/posts/MTA-OMNY/mta github thumbnail.jpg" style="width:75%; height:75%;" />
 
 In 2017, the Metropolitan Transit Authority (MTA) announced plans to phase out physical MetroCards and replace them with a contactless fare payment system. The new system, eventually dubbed OMNY, would allow subway and bus riders to pay fares using digital wallets, contactless credit or debit cards, and, eventually, physical OMNY cards capable of tap-to-pay. The MetroCard phase-out was planned to be completed in 2023, but delays have pushed the expected completion date back indefinitely.
 
 <br>
 
-While OMNY might promise a bit of much-needed modernization to New York City’s transit system, the rollout has also raised concerns that some classes of reduced-fare riders will be left behind. The MTA currently offers two reduced-fare options:
-
-- Seniors & Disability, for riders who are 65 and older or have a qualifying disability; and
-- Fair Fares, for low-income riders.
+While OMNY might promise a bit of much-needed modernization to New York City’s transit system, the rollout has also raised concerns that some classes of reduced-fare riders will be left behind. The MTA currently offers two reduced-fare options: Seniors & Disability, for riders who are 65 and older or have a qualifying disability; and Fair Fares, for low-income riders.
 
 <br>
 
