@@ -9,5 +9,5 @@ featured_image: 'img/posts/AB-TEST/ab test thumbnail.jpg'
 project_link: 'marketing-ab-test'
 button_icon: ''
 button_text: 'Visit Project'
-lead_text: "Which version of a marketing campaign should a business adopt? A realistic workflow for an A/B test, from analysis to actionable business recommendations."
+lead_text: "Which version of a marketing campaign should a business adopt? A realistic workflow for an A/B test, from analysis to actionable recommendations."
 ---
