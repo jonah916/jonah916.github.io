@@ -5,7 +5,7 @@ title: "Marketing Campaign A/B Test"
 date: 2026-02-15 18:00:00
 categories: development
 tags: A/B-Testing Product-Analytics Python
-featured_image: 'img/posts/AB-TEST/ab test thumbnail.jpg'
+featured_image: 'img/posts/AB-TEST/ab test thumbnail.png'
 project_link: 'https://github.com/jonah916/AB-Testing-Marketing-Project'
 button_icon: ''
 button_text: 'Visit Project'
